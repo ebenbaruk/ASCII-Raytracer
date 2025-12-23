@@ -1,2 +1,14 @@
 PRD.md
 .history/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.nbc
+*.nbi
+.DS_Store
+*.egg-info/
+dist/
+build/
